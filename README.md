@@ -15,12 +15,9 @@
 - **WebSockets:** Socket.io  
 - **Game Logic:** Chess.js  
 
-## **Screenshots**  
-*(Add your screenshots here after running the game!)*  
+## Game Board Example 
 
-| Game Board Example | Move in Action |
-|--------------------|---------------|
-| ![Chess Board](https://www.imghippo.com/i/MXoH3720U.png) |
+![Chess Board](Oveeview.png)
 
 ## **Installation & Setup**  
 ### **1. Clone the repository**  
