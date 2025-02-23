@@ -17,7 +17,7 @@
 
 ## Game Board Example 
 
-![Chess Board](Oveeview.png)
+![Chess Board](Overview.png)
 
 ## **Installation & Setup**  
 ### **1. Clone the repository**  
