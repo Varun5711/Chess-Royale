@@ -65,7 +65,7 @@ const handleMove = (source, target) => {
     const move = {
         from: `${String.fromCharCode(97 + source.column)}${8 - source.row}`,
         to: `${String.fromCharCode(97 + target.column)}${8 - target.row}`,
-        promotion: "q" // Always promote to a queen
+        promotion: "q" 
     };
 
     socket.emit("move", move);
